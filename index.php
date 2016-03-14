@@ -68,7 +68,7 @@
 		<div class="container">
 			<div class="intro-text">
 				<img src="img/logos/aim_outline-2.png" alt="AIM Business Services" width="240px" />
-				<div class="intro-lead-in">Need a bookkeeper or temporary staff?</div>
+				<div class="intro-lead-in">Need a bookkeeper?</div>
 				<div class="intro-heading">AIM for the best.</div>
 				<a href="#services" class="page-scroll btn btn-xl">More</a>
 			</div>
@@ -80,43 +80,33 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<h2 class="section-heading">Services</h2>
-				</div>
-			</div>
-			<div class="row text-center">
-				<div class="col-md-6">
 					<span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-calculator fa-stack-1x fa-inverse"></i>
                     </span>
-					<h4 class="service-heading">Bookkeeping</h4>
+					<h2 class="section-heading">Bookkeeping services</h2>
+				</div>
+			</div>
+			<div class="row text-center">
+				<div class="col-md-6">
 					<ul class="text-muted text-left">
-						<li>Specialising in small business bookkeeping</li>
+						<li>Specialising in small business bookkeeping and bookkeeping for law firms</li>
 						<li>Business and account setup</li>
-						<li>Affordable rates with email and telephone support</li>
+						<li>Affordable rates and fixed-fee services, with email and telephone support</li>
 						<li>Servicing the entire Sunshine Coast (on or offsite)</li>
-						<li>Cloud bookkeeping specialist</li>
-						<li>Qld Trust Accounting ATO Compliance (BAS, PAYG and Super lodgements/payments)</li>
-						<li>Payroll Data entry (backlog or up to date/current)</li>
-						<li>Reporting (monthly, quarterly, annual)</li>
-						<li>Recording transactions (creditors, debtors, journal entries)</li>
-						<li>Reconciliations (business accounts, trust accounts, credit cards)</li>
-						<li>Review of current software</li>
+						<li>Qld Trust Accounting and ATO Compliance (BAS, PAYG and Super lodgements/payments)</li>
 					</ul>
 				</div>
 				<div class="col-md-6">
-					<span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-users fa-stack-1x fa-inverse"></i>
-                    </span>
-					<h4 class="service-heading">Temporary staffing</h4>
 					<ul class="text-muted text-left">
-						<li>Onsite legal, secretarial and administrative support.</li>
-						<li>Legal - Queensland Conveyancing (residential, commercial and business), Contract drafting and review, Establishment of Company and Trusts, Leasing, safe custodies, stamping of documents using OSRConnect, DERM elodgments.</li>
-						<li>Admin - Reception duties, filing, data entry.</li>
-						<li>Secretarial - all secretarial tasks including dictation.</li>
+						<li>Cloud bookkeeping specialist</li>
+						<li>Payroll Data entry (backlog or up to date/current)</li>
+						<li>Reporting (monthly, quarterly, annually)</li>
+						<li>Recording of transactions (creditors, debtors, journal entries)</li>
+						<li>Reconciliations (business accounts, trust accounts, credit cards)</li>
+						<li>Review of current software</li>
 					</ul>
-				</div>
+				</div>                				
 			</div>
 		</div>
 	</section>
@@ -125,25 +115,20 @@
 	<aside class="clients">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-3 col-sm-6">
-					<a href="#">
-						<img src="img/logos/ABNLogoHorizontal.jpg" class="img-responsive img-centered" alt="">
-					</a>
+				<div class="col-md-push-1 col-md-2 col-sm-6">
+                    <img src="img/logos/ABNLogoHorizontal.jpg" class="img-responsive img-centered" alt="ABN" />				
 				</div>
-				<div class="col-md-3 col-sm-6">
-					<a href="#">
-						<img src="img/logos/Intuit_QuickBooks_Logo.png" class="img-responsive img-centered" alt="">
-					</a>
+				<div class="col-md-2 col-sm-6">
+				    <img src="img/logos/Intuit_QuickBooks_Logo.png" class="img-responsive img-centered" alt="Intuit QuickBooks" />					
 				</div>
-				<div class="col-md-3 col-sm-6">
-					<a href="#">
-						<img src="img/logos/myob-logo.jpg" class="img-responsive img-centered" alt="">
-					</a>
+				<div class="col-md-2 col-sm-6">					
+					<img src="img/logos/myob-logo.jpg" class="img-responsive img-centered" alt="MYOB" />
 				</div>
-				<div class="col-md-3 col-sm-6">
-					<a href="#">
-						<img src="img/logos/Xero_Logo.png" class="img-responsive img-centered" alt="">
-					</a>
+				<div class="col-md-2 col-sm-6">
+                    <img src="img/logos/xero-certified-advisor-logo.jpg" class="img-responsive img-centered" alt="Xero certified advisor" />			
+				</div>
+				<div class="col-md-2 col-sm-6">				
+					<img src="img/logos/25370692_Colour.jpg" class="img-responsive img-centered" alt="BAS Agent" />
 				</div>
 			</div>
 		</div>
@@ -170,18 +155,18 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6">
-					<p><strong>I have worked in law firms across the Sunshine Coast for many years and continue to provide temporary staffing solutions to Sunshine Coast law firms.</strong>
-					</p>
-					<p>I have largely worked in conveyancing (residential, commercial, business, leasing, community management statements) and have experience in wills and estates and company and trust structures.</p>
-					<p>I have experience with Leap documents, accounts and timesheets, Amicus, Legalpax, Filepro and Perfect Balance.</p>
-					<p>I have completed business administration certifications through Qld TAFE, including the Certificate IV in Financial Services (Accounting).</p>
-				</div>
-				<div class="col-md-6">
-					<p>I am in the process of building the 1400 hours of experience required to become a registered BAS agent. However, I am able to provide BAS Services through my registered association, <a href="http://www.austbook.net/">Australian Bookkeepers Network</a> through their ABN BAS service.</p>
-					<p>I have experience in MYOB, Quickbooks and Xero plus extensive experience with the Microsoft Office suite.</p>
-					<p>I have also completed the <a href="http://www.legalbookkeepersinstitute.com.au/course/5">Legal Bookkeepers Institute - Legal Trust Accounting Qld course</a>.</p>
-					<p>I am a qualified Justice of the Peace enabling me to witness a number of documents, certify copies of documents and sign statutory declarations.</p>
+				<div class="col-md-push-2 col-md-8">
+                    <p>I am the Owner and Manager of AIM Business Services.</p>
+                    <p>Prior to the creation of AIM Business Services, I have worked in law firms over the Sunshine Coast for more than 10 years.</p>
+                    <p>I am experienced in MYOB (desktop and cloud), Xero and Intuit Quickbooks. I also have extensive experience in Leap Legal and hold the following qualifications – </p>
+                    <ul>
+                        <li>Certificate IV in Financial Services (Accounting)</li>
+                        <li><a href="http://www.legalbookkeepersinstitute.com.au/course/5">Legal Bookkeepers (Qld) Course</a></li>
+                        <li>Certificate III & IV in Legal Administration</li>
+                        <li>Justice of the Peace (Qualified)</li></ul>
+                    <p>AIM Business Services is also a voting member of the <a href="http://www.austbook.net">Australian Bookkeepers Network</a>.</p>
+                    <p>AIM Business Services prides itself on taking the hassle and compliance out of your books and giving you back the time to do what you do best.</p>
+                    <p>After all… WHY NOT AIM FOR THE BEST!</p>
 				</div>
 			</div>
 		</div>
@@ -193,7 +178,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2 class="section-heading">Contact Us</h2>
-					<h3><a tel="0416 954 399">0416 954 399</a> | <a href="mailto:info@aimbusinessservices.com.au">info@aimbusinessservices.com.au</a> | <a href="http://www.facebook.com/AIMBusinessServices">Facebook</a></h3>
+					<h3><a tel="0416 954 399">0416 954 399</a> | <a href="mailto:amy@aimbusinessservices.com.au">amy@aimbusinessservices.com.au</a> | <a href="http://www.facebook.com/AIMBusinessServices" class="fa fa-facebook-official"></a></h3>
 				</div>
 			</div>
 			<div class="row">
@@ -243,7 +228,7 @@
 	<script src="js/classie.js"></script>
 	<script src="js/cbpAnimatedHeader.js"></script>
 
-	<!-- Contact Form JavaScript --
+	<!-- Contact Form JavaScript -->
 	<script src="js/jqBootstrapValidation.js"></script>
 	<script src="js/contact_me.js"></script>
 

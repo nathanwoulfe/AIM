@@ -431,3 +431,11 @@ img::-moz-selection {
 body {
 	webkit-tap-highlight-color: #fed136;
 }
+
+/* logo margins */
+@media (min-width: 992px) {
+    .clients .col-md-push-1 {
+        left: 0;
+        margin-left: 8.33333333%;
+    }
+}
