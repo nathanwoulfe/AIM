@@ -439,3 +439,12 @@ body {
         margin-left: 8.33333333%;
     }
 }
+
+.clients .bas-agent {
+    max-height: none;
+    margin-top: -30px;
+}
+
+.clients .xero {
+    max-height: none;
+}

@@ -13,7 +13,7 @@
 	<title>AIM Business Services | Bookkeeping and temporary staffing | Sunshine Coast</title>
 
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/agency.min.css" rel="stylesheet">
+	<link href="css/agency.css" rel="stylesheet">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="//fonts.googleapis.com/css?family=Montserrat:400,700|Droid+Serif:400italic|Robotob+Slab:400" rel="stylesheet" type="text/css">
 
@@ -94,7 +94,8 @@
 						<li>Business and account setup</li>
 						<li>Affordable rates and fixed-fee services, with email and telephone support</li>
 						<li>Servicing the entire Sunshine Coast (on or offsite)</li>
-						<li>Qld Trust Accounting and ATO Compliance (BAS, PAYG and Super lodgements/payments)</li>
+						<li>Qld Trust Accounting</li>
+                        <li>ATO Compliance (BAS, PAYG and Super lodgements/payments)</li>
 					</ul>
 				</div>
 				<div class="col-md-6">
@@ -121,25 +122,24 @@
 				<div class="col-md-2 col-sm-6">
 				    <img src="img/logos/Intuit_QuickBooks_Logo.png" class="img-responsive img-centered" alt="Intuit QuickBooks" />					
 				</div>
+				<div class="col-md-2 col-sm-6">				
+					<img src="img/logos/25370692_Colour.png" class="img-responsive img-centered bas-agent" alt="BAS Agent" />
+				</div>
 				<div class="col-md-2 col-sm-6">					
 					<img src="img/logos/myob-logo.jpg" class="img-responsive img-centered" alt="MYOB" />
 				</div>
 				<div class="col-md-2 col-sm-6">
-                    <img src="img/logos/xero-certified-advisor-logo.jpg" class="img-responsive img-centered" alt="Xero certified advisor" />			
-				</div>
-				<div class="col-md-2 col-sm-6">				
-					<img src="img/logos/25370692_Colour.jpg" class="img-responsive img-centered" alt="BAS Agent" />
+                    <img src="img/logos/xero-certified-advisor-logo.jpg" class="img-responsive img-centered xero" alt="Xero certified advisor" />			
 				</div>
 			</div>
 		</div>
 	</aside>
-
 	<!-- CTA -->
 	<aside class="cta">
 		<div class="container">
 			<div class="intro-text">
 				<div class="intro-heading small">Spend more time growing your business and less time drowning in paperwork.</div>
-				<div class="intro-heading">Book in today for a FREE, NO OBLIGATION consultation.</div>
+				<div class="intro-heading">Book today for a FREE, NO OBLIGATION consultation.</div>
 				<a href="#contact" class="page-scroll btn btn-xl">Get in touch</a>
 			</div>
 		</div>
@@ -155,10 +155,10 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-push-2 col-md-8">
+				<div class="col-md-7">
                     <p>I am the Owner and Manager of AIM Business Services.</p>
                     <p>Prior to the creation of AIM Business Services, I have worked in law firms over the Sunshine Coast for more than 10 years.</p>
-                    <p>I am experienced in MYOB (desktop and cloud), Xero and Intuit Quickbooks. I also have extensive experience in Leap Legal and hold the following qualifications – </p>
+                    <p>I am a registered BAS Agent with the Tax Practitioners Board and am experienced in MYOB (desktop and cloud), Xero and Intuit Quickbooks. I also have extensive experience in Leap Legal and hold the following qualifications – </p>
                     <ul>
                         <li>Certificate IV in Financial Services (Accounting)</li>
                         <li><a href="http://www.legalbookkeepersinstitute.com.au/course/5">Legal Bookkeepers (Qld) Course</a></li>
@@ -168,6 +168,11 @@
                     <p>AIM Business Services prides itself on taking the hassle and compliance out of your books and giving you back the time to do what you do best.</p>
                     <p>After all… WHY NOT AIM FOR THE BEST!</p>
 				</div>
+                <div class="col-md-5">
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe src="https://www.youtube.com/embed/KgH8nLT6Ut8"></iframe>
+                    </div>                    
+                </div>
 			</div>
 		</div>
 	</section>
